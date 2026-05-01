@@ -17,10 +17,10 @@ I design and build data platforms, automation systems, and reliable pipelines fo
 
 ## Recent Work
 
-- Migrated a fintech ML backfill workflow from private-server Bash/Python scripts to an automated GCP platform using Terraform, Cloud Run, BigQuery, and workflow orchestration.
-- Reduced GCP spend by 30% for a global retailer through BigQuery and infrastructure optimization.
-- Supported an Azure, Snowflake, ADF, and dbt healthcare analytics platform consolidating pharmacy sales, stock, CRM, and product reference data.
-- Built marketing data pipelines for CAPI, attribution, analytics, and paid-media audience workflows.
+- Migrated a legacy ML data workflow from private-server scripts to an automated cloud data platform.
+- Reduced cloud data platform spend by 30% through warehouse, storage, and infrastructure optimization.
+- Supported an enterprise analytics platform consolidating operational, CRM, product, and transaction data across multiple source systems.
+- Built marketing and attribution data pipelines for analytics and paid-media workflows.
 - Designed high-scale data systems processing 50M+ daily events for analytics and ML workloads.
 
 ## Stack
@@ -42,4 +42,3 @@ I focus on:
 ## Current Focus
 
 I am focused on helping teams modernize fragile data systems into reliable cloud platforms, especially where analytics, machine learning, and business operations depend on trustworthy data movement.
-
