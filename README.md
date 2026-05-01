@@ -1,8 +1,32 @@
-# Zaradacht Taifour (Zack)
+<h1 align="center">Zaradacht Taifour (Zack)</h1>
 
-Turning fragile data systems into scalable cloud platforms.
+<p align="center">
+  <strong>Data Platform Architect turning fragile data systems into scalable cloud platforms.</strong>
+</p>
 
-I design and build data platforms, automation systems, and reliable pipelines for analytics and machine learning. My work sits where architecture meets execution: cloud migrations, cost optimization, data reliability, and production-grade ETL/ELT.
+<p align="center">
+  <a href="https://zaradacht.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/zaradacht">LinkedIn</a> ·
+  <a href="https://www.upwork.com/freelancers/zaradacht">Upwork</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-BigQuery%20%7C%20Cloud%20Run%20%7C%20GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Azure-ADF%20%7C%20Databricks-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Data-dbt%20%7C%20Snowflake%20%7C%20SQL-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Data stack" />
+  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20Automation-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+I design and build data platforms, automation systems, and reliable pipelines for analytics and machine learning.
+
+My work sits where architecture meets execution: cloud migrations, cost optimization, data reliability, and production-grade ETL/ELT.
+
+```text
+Fragile workflows  ->  automated cloud platforms
+Manual operations  ->  observable, repeatable systems
+Expensive queries  ->  optimized warehouses and infrastructure
+Unclear ownership  ->  documented, maintainable data products
+```
 
 ## What I Work On
 
@@ -42,3 +66,9 @@ I focus on:
 ## Current Focus
 
 I am focused on helping teams modernize fragile data systems into reliable cloud platforms, especially where analytics, machine learning, and business operations depend on trustworthy data movement.
+
+---
+
+<p align="center">
+  <em>Architecture thinking. Hands-on execution. Reliable data systems.</em>
+</p>
