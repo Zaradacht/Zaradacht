@@ -1,4 +1,4 @@
-# Zack Taifour
+# Zaradacht Taifour (Zack)
 
 Turning fragile data systems into scalable cloud platforms.
 
